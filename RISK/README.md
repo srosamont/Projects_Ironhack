@@ -16,6 +16,7 @@ Game coded in team with nclee17 during Ironhack Data Analytics Bootcamp
 	- 3 blue dice for the defender
 	- 42 territory cards
 	- Troops (Number of troops limited only for the game setup but not for the game play) 
+	
 Not included in the current version:
 	- 42 risk cards with symbols (Infantry, Calvalry, Artillery)
 	- 14 mission cards
@@ -60,7 +61,7 @@ Attacker rolls the 3 red dice and the defender rolls the 3 blue dice to decide t
 The player with the higher sum of the dice output added together wins, and the loser will lose a troop.
 The combat automatically continues until "last man standing", either attacker successfully conquered the territory and move in with the surviving troops; or defender successfully killed off all the attacking troops and remain stationed with the surviving troops
 
-####Phase III: Manoeuvre
+#### Phase III: Manoeuvre
 
 Player can move troops from one (and only one) of territories into one (and only one) of the adjacent territories belonged to the current player. The manoeuvre has to respect the "cannot empty territory rule".
 
