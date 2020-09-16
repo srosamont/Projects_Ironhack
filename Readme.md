@@ -1,6 +1,6 @@
 <img src="https://bit.ly/2VnXWr2" alt="Ironhack Logo" width="100"/>
 
-#Projects - Ironhack
+# Projects - Ironhack
 *Sandrine ROSAMONT*
 
 *[Paris, 2020]*
@@ -31,7 +31,7 @@ This repo contains all the projects I made during my ten-week Data Analytics Boo
 5) **New-York taxi rides**: this a two-parts project.
 	- ride duration prediction: the target was to predict the ride duration. First I used unsupervised learning to cluster the data. I wanted to do feature reduction, keeping the information available in features I wanted to remove. Then I used supervised learning algorithms to predict the ride duration. 
 	- fare prediction :the target was to predict the fare for the rides based on a dataset of 55 Millions records.
-* 8 days to complet this project.*
+*8 days to complet this project.*
 [New-York taxi rides](https://github.com/srosamont/Projects_Ironhack/tree/master/New_York_Taxi_rides) 
 
 
